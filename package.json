@@ -1,0 +1,16 @@
+{
+  "name": "streaming-markup",
+  "version": "1.0.0",
+  "description": "Example of how to use stream multiple HTML fragments into an HTTP response",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Akiva Levy <akiva@sixthirteen.co>",
+  "license": "ISC",
+  "dependencies": {
+    "hyperstream": "^1.2.2"
+  }
+}
